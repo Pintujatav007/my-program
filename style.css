@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url("jatav.jpg") no-repeat center center fixed;
+    background-size: cover;
+    color: white;
+    text-align: center;
+}
+
+header {
+    background: rgb(17, 0, 255);
+    color: rgb(151, 18, 91);
+    padding: 20px;
+    text-align: center;
+}
+
+nav {
+    background: rgb(146, 30, 30);
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: white 10px;
+    text-decoration: none;
+}
+
+section {
+    padding: 20px;
+}
+
+footer {
+    background: rgb(115, 172, 25);
+    text-align: center;
+    padding: 10px;
+}

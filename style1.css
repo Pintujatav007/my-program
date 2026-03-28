@@ -1,0 +1,36 @@
+                        body {
+                            background-color: rgb(2, 6, 8);
+                            color: white;
+                            text-align: center;
+                        }
+                        
+                        h1 {
+                            color: orangered;
+                        }
+                        
+                        h2 {
+                            color: greenyellow;
+                        }
+                        
+                        p {
+                            color: aquamarine;
+                        }
+                        
+                        tr {
+                            text-align: center;
+                        }
+                        
+                        table {
+                            margin: auto;
+                            width: 800px;
+                            height: 200px;
+                            border-collapse: collapse;
+                        }
+                        
+                        td,
+                        th {
+                            padding: 10px;
+                            text-align: center;
+                            font-size: 18px;
+                            ;
+                        }
